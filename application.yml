@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: common-config
+
+logging:
+  level:
+    org.springframework.cloud.config: DEBUG
+    com.example: DEBUG
+
+info:
+  app:
+    name: Lab7 Microservices
+    description: Spring Cloud Demo Application
